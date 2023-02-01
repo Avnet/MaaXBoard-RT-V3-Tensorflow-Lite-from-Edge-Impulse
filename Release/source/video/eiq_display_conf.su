@@ -1,0 +1,8 @@
+../source/video/eiq_display_conf.c:305:17:BOARD_DSI_Transfer	0	static
+../source/video/eiq_display_conf.c:293:13:BOARD_PullPanelPowerPin	0	static
+../source/video/eiq_display_conf.c:281:13:BOARD_PullPanelResetPin	0	static
+../source/video/eiq_display_conf.c:489:10:BOARD_InitDisplayInterface	112	static
+../source/video/eiq_display_conf.c:531:6:LCDIFv2_IRQHandler	0	static
+../source/video/eiq_display_conf.c:545:10:BOARD_VerifyDisplayClockSource	8	static
+../source/video/eiq_display_conf.c:574:10:BOARD_PrepareDisplayController	8	static
+../source/video/eiq_display_conf.c:609:6:BOARD_ResetDisplayMix	8	static

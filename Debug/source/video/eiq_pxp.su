@@ -1,0 +1,8 @@
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:586:20:PXP_Start	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:685:24:PXP_GetStatusFlags	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:705:20:PXP_ClearStatusFlags	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:856:20:PXP_SetProcessSurfaceBackGroundColor	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:1007:20:PXP_SetRotateConfig	8	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_pxp.h:1185:20:PXP_EnableCsc1	0	static
+../source/video/eiq_pxp.c:53:6:EIQ_PXP_Init	64	static
+../source/video/eiq_pxp.c:107:6:EIQ_PXP_Rotate	8	static

@@ -1,0 +1,5 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/circular_buffer.cpp:76:6:void tflite::ops::micro::circular_buffer::Free(TfLiteContext*, void*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/circular_buffer.cpp:78:14:TfLiteStatus tflite::ops::micro::circular_buffer::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/circular_buffer.cpp:124:14:TfLiteStatus tflite::ops::micro::circular_buffer::Eval(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/circular_buffer.cpp:119:6:void tflite::ops::micro::circular_buffer::EvalInt8(const int8_t*, int, int, int8_t*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/circular_buffer.cpp:164:21:TfLiteRegistration* tflite::ops::micro::Register_CIRCULAR_BUFFER()	0	static

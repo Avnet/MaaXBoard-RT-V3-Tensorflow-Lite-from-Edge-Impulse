@@ -1,0 +1,5 @@
+../source/gprintf/chgui.c:102:6:GUI_DrawBuffer	16	static
+../source/gprintf/chgui.c:125:5:GUI_PrintfToBuffer	16	static
+../source/gprintf/chgui.c:148:13:GUI_DrawPixel	24	static
+../source/gprintf/chgui.c:168:13:_GUI_DispChar	56	static
+../source/gprintf/chgui.c:225:13:GUI_DispChar	32	static

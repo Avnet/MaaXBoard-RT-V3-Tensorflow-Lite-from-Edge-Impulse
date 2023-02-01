@@ -1,0 +1,11 @@
+../video/fsl_ov5640.c:960:10:OV5640_Deinit	8	static
+../video/fsl_ov5640.c:967:10:OV5640_Control	0	static
+../video/fsl_ov5640.c:980:10:OV5640_Start	16	static
+../video/fsl_ov5640.c:985:10:OV5640_Stop	16	static
+../video/fsl_ov5640.c:1073:10:OV5640_SetLightMode	40	static
+../video/fsl_ov5640.c:1101:10:OV5640_SetSpecialEffect	24	static
+../video/fsl_ov5640.c:995:10:OV5640_SetBrightness	24	static
+../video/fsl_ov5640.c:1026:10:OV5640_SetContrast	32	static
+../video/fsl_ov5640.c:1049:10:OV5640_SetSaturation	32	static
+../video/fsl_ov5640.c:804:10:OV5640_Init	48	static
+../video/fsl_ov5640.c:990:10:OV5640_InitExt	0	static

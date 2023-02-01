@@ -1,0 +1,13 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:63:1:virtual tflite::GreedyMemoryPlanner::~GreedyMemoryPlanner()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:384:5:virtual int tflite::GreedyMemoryPlanner::GetBufferCount()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:67:14:virtual TfLiteStatus tflite::GreedyMemoryPlanner::AddBuffer(tflite::ErrorReporter*, int, int, int)	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:23:6:void tflite::ReverseSortInPlace(int*, int*, int)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:41:1:tflite::GreedyMemoryPlanner::GreedyMemoryPlanner(unsigned char*, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:85:14:TfLiteStatus tflite::GreedyMemoryPlanner::AddBuffer(tflite::ErrorReporter*, int, int, int, int)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:97:6:bool tflite::GreedyMemoryPlanner::DoesEntryOverlapInTime(const tflite::GreedyMemoryPlanner::ListEntry*, int, int) const	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:112:1:tflite::GreedyMemoryPlanner::ListEntry* tflite::GreedyMemoryPlanner::NextSimultaneouslyActiveBuffer(const tflite::GreedyMemoryPlanner::ListEntry*, int, int)	12	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:140:6:void tflite::GreedyMemoryPlanner::CalculateOffsetsIfNeeded()	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:290:8:virtual size_t tflite::GreedyMemoryPlanner::GetMaximumMemorySize()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:386:14:virtual TfLiteStatus tflite::GreedyMemoryPlanner::GetOffsetForBuffer(tflite::ErrorReporter*, int, int*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:314:6:void tflite::GreedyMemoryPlanner::PrintMemoryPlan(tflite::ErrorReporter*)	152	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cpp:399:6:bool tflite::GreedyMemoryPlanner::DoAnyBuffersOverlap(tflite::ErrorReporter*)	88	static

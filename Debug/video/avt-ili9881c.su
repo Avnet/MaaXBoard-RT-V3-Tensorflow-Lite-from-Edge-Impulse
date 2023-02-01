@@ -1,0 +1,4 @@
+../video/avt-ili9881c.c:278:10:ILI9881C_Init	24	static
+../video/avt-ili9881c.c:383:10:ILI9881C_Deinit	8	static
+../video/avt-ili9881c.c:397:10:ILI9881C_Start	8	static
+../video/avt-ili9881c.c:406:10:ILI9881C_Stop	8	static

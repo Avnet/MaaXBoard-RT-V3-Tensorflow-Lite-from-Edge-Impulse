@@ -1,0 +1,11 @@
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2157:20:CLOCK_SetRootClock	8	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2178:20:CLOCK_ControlGate	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2196:20:CLOCK_EnableClock	8	static
+../source/video/eiq_camera_conf.c:89:6:CSI_IRQHandler	8	static
+../source/video/eiq_camera_conf.c:100:6:BOARD_EarlyPrepareCamera	0	static
+../source/video/eiq_camera_conf.c:107:13:BOARD_PullCameraResetPin	8	static
+../source/video/eiq_camera_conf.c:119:13:BOARD_PullCameraPowerDownPin	8	static
+../source/video/eiq_camera_conf.c:134:6:BOARD_EarlyInitCamera	0	static
+../source/video/eiq_camera_conf.c:144:6:BOARD_InitCameraResource	8	static
+../source/video/eiq_camera_conf.c:154:6:BOARD_InitMipiCsi	24	static
+../source/video/eiq_camera_conf.c:293:17:BOARD_VerifyCameraClockSource	8	static

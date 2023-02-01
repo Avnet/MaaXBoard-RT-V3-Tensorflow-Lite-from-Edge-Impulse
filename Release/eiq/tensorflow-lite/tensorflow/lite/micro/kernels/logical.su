@@ -1,0 +1,4 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logical.cpp:64:14:TfLiteStatus tflite::ops::micro::logical::{anonymous}::LogicalOrEval(TfLiteContext*, TfLiteNode*)	544	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logical.cpp:70:14:TfLiteStatus tflite::ops::micro::logical::{anonymous}::LogicalAndEval(TfLiteContext*, TfLiteNode*)	544	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logical.cpp:77:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_OR()	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logical.cpp:90:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_AND()	8	static

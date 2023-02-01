@@ -1,0 +1,13 @@
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2071:24:CLOCK_GetRootClockMux	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2112:24:CLOCK_GetRootClockDiv	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2157:20:CLOCK_SetRootClock	8	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2239:24:CLOCK_GetRootClockFreq	16	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2378:20:CLOCK_OSC_EnableOsc48M	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2410:20:CLOCK_OSC_EnableOsc48MDiv2	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_clock.h:2492:20:CLOCK_OSC_GateOscRc400M	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_iomuxc.h:1685:20:IOMUXC_SetSaiMClkClockSource	0	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_iomuxc.h:1755:20:IOMUXC_MQSConfig	4	static
+/home/frank/Documents/MCUXpresso_11.5.1_7266/rockpaperscissors2/MaaXBoard-RT-V3-Tensorflow-Lite-from-Edge-Impulse/drivers/fsl_dcdc.h:629:20:DCDC_SetVDD1P0BuckModeTargetVoltage	0	static
+../board/clock_config.c:41:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:50:6:UpdateSemcClock	0	static
+../board/clock_config.c:274:6:BOARD_BootClockRUN	40	static

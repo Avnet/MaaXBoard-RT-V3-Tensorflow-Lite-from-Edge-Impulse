@@ -1,0 +1,6 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:104:7:void* tflite::{anonymous}::Init(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:243:6:void tflite::{anonymous}::EvalQuantizedPerChannel(TfLiteContext*, TfLiteNode*, TfLiteDepthwiseConvParams*, tflite::{anonymous}::OpData*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	536	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:356:6:void tflite::{anonymous}::EvalQuantized(TfLiteContext*, TfLiteNode*, TfLiteDepthwiseConvParams*, const tflite::{anonymous}::OpData*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	456	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:422:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	336	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:109:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	272	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis-nn/depthwise_conv.cpp:464:20:TfLiteRegistration tflite::Register_DEPTHWISE_CONV_2D()	8	static

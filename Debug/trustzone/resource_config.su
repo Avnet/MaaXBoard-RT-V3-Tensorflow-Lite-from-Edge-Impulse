@@ -1,0 +1,4 @@
+../trustzone/resource_config.c:564:6:BOARD_InitRDC	0	static
+../trustzone/resource_config.c:746:6:BOARD_InitXRDC2	4	static
+../trustzone/resource_config.c:1654:6:BOARD_InitTEE	8	static
+../trustzone/resource_config.c:1664:6:BOARD_InitBootTEE	8	static

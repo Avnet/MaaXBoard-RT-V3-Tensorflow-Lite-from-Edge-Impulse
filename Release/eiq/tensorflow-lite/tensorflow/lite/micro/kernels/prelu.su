@@ -1,0 +1,4 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:88:7:void* tflite::ops::micro::activations::PreluInit(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:93:14:TfLiteStatus tflite::ops::micro::activations::PreluPrepare(TfLiteContext*, TfLiteNode*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:107:14:TfLiteStatus tflite::ops::micro::activations::PreluEval(TfLiteContext*, TfLiteNode*)	800	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:156:20:TfLiteRegistration tflite::ops::micro::Register_PRELU()	8	static

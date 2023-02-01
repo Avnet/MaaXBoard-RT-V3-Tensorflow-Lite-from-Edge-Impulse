@@ -1,0 +1,7 @@
+../source/video/eiq_display.c:52:13:start	0	static
+../source/video/eiq_display.c:64:15:getResolution	8	static
+../source/video/eiq_display.c:78:13:notify	8	static
+../source/video/eiq_display.c:90:17:getEmptyBuffer	0	static
+../source/video/eiq_display.c:103:13:setReadyCallback	0	static
+../source/video/eiq_display.c:118:13:bufferReleased	0	static
+../source/video/eiq_display.c:171:16:EIQ_InitDisplay	16	static

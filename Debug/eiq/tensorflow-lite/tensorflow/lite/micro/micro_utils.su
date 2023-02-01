@@ -1,0 +1,4 @@
+/usr/local/mcuxpressoide-11.5.1_7266/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.5.1.202201181444/tools/arm-none-eabi/include/c++/10.3.1/limits:525:7:static constexpr signed char std::numeric_limits<signed char>::min()	4	static
+/usr/local/mcuxpressoide-11.5.1_7266/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.5.1.202201181444/tools/arm-none-eabi/include/c++/10.3.1/limits:528:7:static constexpr signed char std::numeric_limits<signed char>::max()	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_utils.cpp:27:5:int tflite::ElementCount(const TfLiteIntArray&)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_utils.cpp:35:6:void tflite::SignedSymmetricPerChannelQuantize(const float*, TfLiteIntArray*, int, int8_t*, float*)	96	static

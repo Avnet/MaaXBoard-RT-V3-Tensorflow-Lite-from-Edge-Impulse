@@ -1,0 +1,3 @@
+../board/clock_config.c:50:6:UpdateSemcClock	4	static
+../board/clock_config.c:274:6:BOARD_BootClockRUN	16	static
+../board/clock_config.c:41:6:BOARD_InitBootClocks	0	static
