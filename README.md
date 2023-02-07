@@ -20,7 +20,6 @@ TensorFlow Lite model exported from Edge Impulse runs object detection (Rock, Pa
 * 2MB of Fast On-Chip SRAM (includes 512KB of A7 TCM and 256KB M4 TCM)
 * 256 Mb Onboard SDRAM
 * 256 Mb Onboard HyperFlash
-
 ### MCU-Link Debug Probe
 [<img src=https://user-images.githubusercontent.com/122924725/217269298-e8d31a1d-00cc-4dec-be27-f3241cefb7e4.png width="250" height="200" alt="">](https://www.avnet.com/shop/us/products/nxp/mcu-link-3074457345644906182/)
 ### MIPI DSI 7-INCH Capacitive Touch Display AES-ACC-MAAX-DISP1
@@ -30,6 +29,10 @@ TensorFlow Lite model exported from Edge Impulse runs object detection (Rock, Pa
 ### Avnet 5V/3A USB Type-C Power Supply
 [<img src=https://user-images.githubusercontent.com/122924725/217275081-52abf580-d80f-4398-8cfa-c426dffc6aee.png width="250" height="200" alt="">](https://www.avnet.com/shop/us/products/avnet-engineering-services/aes-acc-maax-pwrul-3074457345642357173/)
 ## Required Software
+### Edge Impulse Studio
+![image](https://user-images.githubusercontent.com/122924725/217306160-c1e3f794-3900-4662-bd25-8bd361928279.png)
+### NXP MCUXpresso
+
 ## Project Setup
 ## Running the Project
 ## References
