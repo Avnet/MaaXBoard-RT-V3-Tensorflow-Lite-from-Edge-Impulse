@@ -40,27 +40,64 @@ TensorFlow Lite model exported from Edge Impulse runs object detection (Rock, Pa
 [<img src=https://user-images.githubusercontent.com/122924725/217307002-22934f2f-efa7-4daa-9425-e6b807a2aa89.png width="150" height="150" alt="">](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
 
 ## Project Setup
-Open the project and build it.
+1. Connect the MCU-Link, display and camera to the MaaxBoard RT as shown in the image below.
+2. Connect the Type-C power supply to the Maaxboard but don't plug in the wall adapter yet.
+3. Connect a USB cable between the PC host and the MCU-link.
 
-Connect Display and camera
+<img src=https://user-images.githubusercontent.com/122924725/217314403-1ab53356-07ad-4fa0-8465-614e340ff194.png width="500" height="450" alt="">
 
-Connect a USB cable between the PC host and the OpenSDA USB port on the target board.
+4. On this Github page, click on Code then Download ZIP to get all the project contents.
 
-![image](https://user-images.githubusercontent.com/122924725/217314403-1ab53356-07ad-4fa0-8465-614e340ff194.png)
+<img src=https://user-images.githubusercontent.com/122924725/217377964-8041fa4c-13c2-49f4-b1bf-cb6ac0c3d906.png width="500" height="450" alt="">
 
-Open a serial terminal on PC for OpenSDA serial device with these settings:
+5. Open MCUXPresso. In the Quickstart panel, click on Import project(s) from file system, and select the project ZIP that was downloaded.
+
+<img src=https://user-images.githubusercontent.com/122924725/217378762-2cf08b63-6cab-4a0e-91ba-7c1713b5417c.png width="500" height="450" alt="">
+
+6. Plug in the wall adapter, in the Project Explorer tab on the far left, select the project that was imported and click Build in the Quickstart Panel.
+
+7. Open a serial terminal on PC or a terminal on MCUXpresso with these settings:
 * 115200 baud rate
 * 8 data bits
 * No parity
 * One stop bit
 * No flow control
 
-Download the program to the target board.
+<img src=https://user-images.githubusercontent.com/122924725/217379706-01e3c0e6-009d-4604-96d1-5555dda5e1ae.png width="500" height="450" alt="">
 
-Either press the reset button on your board or launch the debugger in your IDE to begin running the example.
+8. Click on Debug in the Quickstart Panel and click on the Resume button to start running the project.
+
+<img src=https://user-images.githubusercontent.com/122924725/217397103-62a1b11e-e371-4735-a55f-0d2cab7046bc.png width="500" height="450" alt="">
 
 ## Running the Project
-To classify an image, place an image in front of camera so that it fits in the white rectangle in the middle of the display. The log below shows the output of the demo in the terminal window
+Place your hand showing rock, paper, or scissors in front of camera so that it fits in the white rectangle in the middle of the display. The output of the demo in the terminal window is shown below
+
+Terminal Readings:
+
+    Data for inference are ready
+    ----------------------------------------
+         Inference time: 56 ms
+         Detected: rock       (100%)
+    ----------------------------------------
+
+    Data for inference are ready
+    ----------------------------------------
+         Inference time: 56 ms
+         Detected: rock       (100%)
+    ----------------------------------------
+
+    Data for inference are ready
+    ----------------------------------------
+         Inference time: 56 ms
+         Detected: rock       (100%)
+    ----------------------------------------
+
+    Data for inference are ready
+    ----------------------------------------
+         Inference time: 56 ms
+         Detected: rock       (100%)
+    ----------------------------------------
+    ----------------------------------------
 
 ## References
 * [MaaxBoard RT](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/maaxboard/maaxboard-rt/)
@@ -70,4 +107,8 @@ To classify an image, place an image in front of camera so that it fits in the w
 
 Note: The last two references are mentioned in the Rock, Paper, Scissors with the MaaxBoard RT reference
 
-## Current Issues
+## Current Issue
+* Potential Overall Accuracy
+  * Lighting
+  * Additional data possibly needed
+  * Type of camera
